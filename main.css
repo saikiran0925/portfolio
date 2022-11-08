@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    display: flex;
+
+   background-color: beige;
+   height: 50px;
+   width: 100%;
+   border: 10px;
+   border-color: black;
+   margin: 10px;
+   
+}
+
+.links{
+    text-decoration: none;
+    color: inherit;
+}
